@@ -1,3 +1,1 @@
-welcome to the git!!
-second line
-third line
+my new file
