@@ -1,1 +1,2 @@
 we are learning git amend
+amending the file.
